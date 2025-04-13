@@ -1,2 +1,3 @@
-# leetcoach-ai
-interview mock agent
+# LeetCoach AI
+
+An AI-powered mock interview agent using FastAPI + LangChain.
