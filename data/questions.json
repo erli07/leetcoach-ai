@@ -1,1 +1,143 @@
-[{"id": "q1", "title": "Two Sum", "difficulty": "Easy", "topic": "Array", "prompt": "Given an array of integers nums and an integer target, return indices..."}]
+[
+    {
+      "id": "q1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "topic": "Array",
+      "prompt": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to the target."
+    },
+    {
+      "id": "q2",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "topic": "Stack",
+      "prompt": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid."
+    },
+    {
+      "id": "q3",
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "topic": "Linked List",
+      "prompt": "Merge two sorted linked lists and return it as a new sorted list."
+    },
+    {
+      "id": "q4",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "topic": "Array",
+      "prompt": "Find the maximum profit from buying and selling one stock."
+    },
+    {
+      "id": "q5",
+      "title": "Maximum Subarray",
+      "difficulty": "Easy",
+      "topic": "Array",
+      "prompt": "Find the contiguous subarray with the largest sum."
+    },
+    {
+      "id": "q6",
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "topic": "Array",
+      "prompt": "Return an array such that each element is the product of all elements except itself."
+    },
+    {
+      "id": "q7",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "topic": "Hash Map",
+      "prompt": "Group anagrams from a list of strings."
+    },
+    {
+      "id": "q8",
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "topic": "Heap",
+      "prompt": "Return the k most frequent elements in an array."
+    },
+    {
+      "id": "q9",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "topic": "Sliding Window",
+      "prompt": "Find the length of the longest substring without repeating characters."
+    },
+    {
+      "id": "q10",
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "topic": "Graph",
+      "prompt": "Determine if you can finish all courses given prerequisites."
+    },
+    {
+      "id": "q11",
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "topic": "Binary Search",
+      "prompt": "Search a target in a rotated sorted array."
+    },
+    {
+      "id": "q12",
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "topic": "Sliding Window",
+      "prompt": "Find the minimum window substring that contains all characters of another string."
+    },
+    {
+      "id": "q13",
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "topic": "Graph",
+      "prompt": "Return the shortest transformation sequence from beginWord to endWord."
+    },
+    {
+      "id": "q14",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "topic": "Two Pointers",
+      "prompt": "Calculate how much water can be trapped after raining."
+    },
+    {
+      "id": "q15",
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "topic": "Heap",
+      "prompt": "Merge k sorted linked lists into one sorted list."
+    },
+    {
+      "id": "q16",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "topic": "Binary Search",
+      "prompt": "Find the median of two sorted arrays."
+    },
+    {
+      "id": "q17",
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "topic": "Tree",
+      "prompt": "Return the level order traversal of a binary tree."
+    },
+    {
+      "id": "q18",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "topic": "Tree",
+      "prompt": "Find the lowest common ancestor of two nodes in a binary tree."
+    },
+    {
+      "id": "q19",
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "topic": "DFS",
+      "prompt": "Count the number of islands in a 2D grid."
+    },
+    {
+      "id": "q20",
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "topic": "Graph",
+      "prompt": "Clone an undirected graph where each node contains a label and a list of its neighbors."
+    }
+  ]
+  
