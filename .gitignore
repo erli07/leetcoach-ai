@@ -13,3 +13,6 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# node_modules
+frontend/node_modules/
