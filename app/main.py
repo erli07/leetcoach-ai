@@ -21,4 +21,5 @@ class InterviewInput(BaseModel):
 @app.post("/interview")
 async def interview(input: InterviewInput):
     reply = get_agent_response(input.session_id, input.user_message)
+    print(f"[Interview Log] session_id={input.session_id}, user_message='{input.user_message}', reply='{reply}'")
     return {"reply": reply}
